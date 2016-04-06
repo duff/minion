@@ -1,0 +1,2 @@
+defmodule Minion do
+end
